@@ -62,11 +62,11 @@ Salin (*copy*) dan tempel (*paste*) kode markdown berikut ke dalam berkas barumu
 ### Biodata Anggota
 
 * **Nama Lengkap:** 
-* **NIM:** 
-* **Asal Daerah / Kota:** 
+* **NIM:**
+* **Asal Daerah / Kota:**
 * **Tujuan Masuk Teknik Informatika:** 
-* **Bidang IT yang Ingin Didalami:** 
-* **Fun Fact:** 
+* **Bidang IT yang Ingin Didalami:**
+* **Fun Fact:**
 ```
 
 ### 7️ Simpan Perubahan (Commit Changes)
